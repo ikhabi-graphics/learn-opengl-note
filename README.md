@@ -10,3 +10,10 @@ Learn OpenGL 사이트에서 보고, 듣고, 느낀 자료 및 공부 내용들�
 
 [@habijung](https://github.com/haabijung)
 - 내용
+
+
+# Contents
+
+## Chapter 1 (작업 중)
+
+관련 내용을 확인하고 싶다면 [chapter/1-getting-started](https://github.com/ikhabi-graphics/learn-opengl-note/tree/chapter/1-getting-started) 브랜치 참고
