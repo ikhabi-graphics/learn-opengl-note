@@ -7,7 +7,7 @@
 
 ### OpenGL
 
-내용
+(@habijung) [작업 중...](https://github.com/ikhabi-graphics/learn-opengl-note/blob/habi/chapter-1-section-2/Chapter%201%20-%20Getting%20Started/Section%202%20-%20OpenGL.md)
 
 
 ## Section 3
